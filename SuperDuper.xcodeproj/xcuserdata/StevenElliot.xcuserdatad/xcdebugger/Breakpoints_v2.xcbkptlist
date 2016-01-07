@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SuperDuper/ViewController.swift"
+            timestampString = "473765821.620787"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "6"
+            endingLineNumber = "6">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SuperDuper.ViewController.__deallocating_deinit"
+                  moduleName = "SuperDuper"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/HDD/StevenElliot/Desktop/SuperDuper/SuperDuper/ViewController.swift"
+                  timestampString = "473765821.644889"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SuperDuper.ViewController.init (SuperDuper.ViewController.Type)(nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.NSBundle&gt;) -&gt; SuperDuper.ViewController"
+                  moduleName = "SuperDuper"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/HDD/StevenElliot/Desktop/SuperDuper/SuperDuper/ViewController.swift"
+                  timestampString = "473765821.646089"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "58">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SuperDuper.ViewController.init (SuperDuper.ViewController.Type)(coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;SuperDuper.ViewController&gt;"
+                  moduleName = "SuperDuper"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/HDD/StevenElliot/Desktop/SuperDuper/SuperDuper/ViewController.swift"
+                  timestampString = "473765821.646279"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "19">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
